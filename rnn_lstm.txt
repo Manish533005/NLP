@@ -1,0 +1,1 @@
+these is about lstm which is a type of architecture in rnn
